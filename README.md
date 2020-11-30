@@ -8,3 +8,5 @@ It has a graph view that shows notes and links between notes. This can be used t
 
 After downloading and unpacking these files, create a new vault from within Obsidian and point it to the umami folder.
 Switch to the graph view and voila. Be sure to include tags and embeds in the graph display settings.
+
+In more detail: https://bildung.royscholten.nl/simulating-a-content-model-in-obsidian
